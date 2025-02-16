@@ -135,7 +135,7 @@ img {
   color: transparent;
   -webkit-background-clip: text;
   background-clip: text;
-  transition: .4s;
+  transition: .44s;
 }
 
 .nav__link:hover {
@@ -190,7 +190,7 @@ img {
   top: -4rem;
   left: 1rem;
   line-height: 6rem;
-  font-size: var(--biggest-font-size);
+  font-size: 4rem;
   /* background: var(--text-gradient); */
   background: #4C7D4F;
   color: transparent;
@@ -242,7 +242,8 @@ img {
   display: inline-flex;
   align-items: center;
   column-gap: .75rem;
-}
+  margin-left: 15px;
+  }
 
 /*=============== SPONSOR ===============*/
 .sponsor__img {
@@ -301,9 +302,9 @@ img {
   grid-template-columns: repeat(2, 1fr);
 }
 
-.case__data {
+/* .case__data {
   padding: 5rem 0 3rem;
-}
+} */
 
 .case__img {
   position: absolute;
@@ -547,6 +548,7 @@ img {
   }
   .specs__img {
     position: initial;
+    width: 100%;
   }
   .specs__container {
     grid-template-columns: repeat(2, 1fr);
@@ -615,7 +617,7 @@ img {
     padding-top: 8rem;
   }
   .specs__img {
-    width: 300px;
+    width: ;
   }
   
   /* .case__img {

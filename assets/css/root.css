@@ -13,7 +13,7 @@
     --scroll-thumb-color: hsl(var(--hue-color), 4%, 16%);
     --scroll-thumb-color-alt: hsl(var(--hue-color), 4%, 20%);
     --body-font: 'Poppins', sans-serif;
-    --biggest-font-size: 5rem;
+    --biggest-font-size: 4rem;
     --bigger-font-size: 3.5rem;
     --big-font-size: 2.5rem;
     --h2-font-size: 1.25rem;
@@ -35,7 +35,7 @@
   }
   @media screen and (min-width: 968px) {
     :root {
-      --biggest-font-size: 7.5rem;
+      --biggest-font-size: 77.5rem;
       --bigger-font-size: 4.5rem;
       --big-font-size: 4rem;
       --h2-font-size: 1.5rem;
