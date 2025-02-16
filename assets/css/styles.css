@@ -247,7 +247,7 @@ img {
 
 /*=============== SPONSOR ===============*/
 .sponsor__img {
-  width: 90px;
+  width: 100px;
 }
 
 .sponsor__container {
@@ -616,9 +616,7 @@ img {
   .home__data {
     padding-top: 8rem;
   }
-  .specs__img {
-    width: ;
-  }
+
   
   /* .case__img {
     width: 300px;
